@@ -1,0 +1,25 @@
+{
+  "name": "flask-demo-docs",
+  "version": "1.0.0",
+  "description": "flask demo docs",
+  "main": "index.js",
+  "authors": {
+    "name": "hjy",
+    "email": "haojunyu2012@gmail.com"
+  },
+  "repository": "https://github.com/haojunyu/flask-demo-docs.git",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "keywords": [
+    "flask",
+    "docs",
+    "template"
+  ],
+  "author": "hjy",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
