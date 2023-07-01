@@ -23,3 +23,9 @@ npm install && npm run build
 ```
 
 ## 参考文献
+
+1. [dg Flask模板][dg_flask_demo_doc]
+2. [vuepress官网][official_vuepress]
+
+[dg_flask_demo_doc]：http://47.95.178.212:38083/docs/
+[official_vuepress]: https://vuepress.vuejs.org/zh/
